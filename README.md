@@ -1,2 +1,2 @@
 # JsonReader
-Java script .Json reader
+Javascript .Json reader
