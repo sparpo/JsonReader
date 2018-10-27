@@ -1,0 +1,6 @@
+{
+"string" : "test",
+"array" : [10, 20, 30],
+"variable" : 20,
+"boolean" : true
+}
